@@ -49,7 +49,7 @@ const Login = () => {
   return (
     <>
     {/* background-color: rgb(0 0 0); */}
-      <div style="height: 100vh;" className="flex flex-col items-center justify-center h-100 min-h-screen bg-gray-700">
+      <div  className="flex flex-col items-center justify-center h-100 min-h-screen bg-gray-700" style={{ height: '100vh' }}>
         <img
           src="https://links.papareact.com/1ui"
           // color="red"
